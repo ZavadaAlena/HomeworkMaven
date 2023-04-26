@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 
-public class InfoTest {
+public class Test {
 
     public static void main(String[] args) {
         FullNameDto fullNameDto = new FullNameDto("Olena", "Zavada");

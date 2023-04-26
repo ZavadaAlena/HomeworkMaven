@@ -41,7 +41,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                com.maven.InfoTest
+                                com.maven.Test
                             </mainClass>
                         </manifest>
                     </archive>
@@ -61,7 +61,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>com.maven.InfoTest</mainClass>
+                            <mainClass>com.maven.Test</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
