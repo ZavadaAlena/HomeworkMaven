@@ -1,10 +1,10 @@
 package com.maven;
 
-public class InfoDto {
+public class FullNameDto {
     private String name;
     private String lastname;
 
-    public InfoDto(String name, String lastname) {
+    public FullNameDto(String name, String lastname) {
         this.name = name;
         this.lastname = lastname;
     }
